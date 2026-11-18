@@ -1,0 +1,16 @@
+# Clés et secrets locaux
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Environnement Python et fichiers temporaires
+.venv/
+venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Résultats générés, conservés localement
+data/*.json
+!data/.gitkeep

@@ -1,0 +1,30 @@
+
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Où peut-on créer son propre parfum à Paris ?",
+            "objective": "Découvrir les ateliers de création de parfum."
+        },
+        {
+            "id": 2,
+            "question": "Quels sont les meilleurs ateliers de création de parfum à Paris ?",
+            "objective": "Identifier les ateliers les plus recommandés."
+        },
+        {
+            "id": 3,
+            "question": "Quel atelier de parfum proposer pour une activité originale en couple à Paris ?",
+            "objective": "Identifier les recommandations pour les couples."
+        },
+        {
+            "id": 4,
+            "question": "Où réserver un atelier de création de parfum personnalisé à Paris pour offrir en cadeau ?",
+            "objective": "Identifier les recommandations pour les cadeaux."
+        },
+        {
+            "id": 5,
+            "question": "Quels ateliers de parfum à Paris proposent une expérience personnalisée avec un parfumeur ?",
+            "objective": "Identifier les ateliers proposant une expérience personnalisée."
+        }
+    ]
+}

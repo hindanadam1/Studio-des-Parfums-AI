@@ -1,0 +1,12 @@
+streamlit
+# Interface web du tableau de bord de veille.
+ddgs
+# Recherche web pour reperer les concurrents et leurs pages.
+beautifulsoup4
+# Lecture et extraction du contenu HTML des pages web.
+requests
+# Envoi de requetes HTTP vers les sites consultes.
+python-dotenv
+# Chargement des variables de configuration depuis le fichier .env.
+groq
+# Appels au fournisseur Groq pour les analyses et la mesure de visibilite IA.
